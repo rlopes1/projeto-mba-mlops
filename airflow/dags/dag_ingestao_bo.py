@@ -9,6 +9,6 @@ with DAG(
     start_date=datetime(2026, 1, 1),
     schedule=None,
     catchup=False,
-    tags=["pcdf", "bo"],
+    tags=["mba", "mlops"],
 ):
     pass

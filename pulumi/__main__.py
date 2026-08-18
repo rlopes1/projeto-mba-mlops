@@ -1,1 +1,1 @@
-"""Infraestrutura do projeto pcdf-bo-triagem via Pulumi (esqueleto Aula 01)."""
+"""Infraestrutura do projeto-mba-mlops via Pulumi (esqueleto Aula 01)."""

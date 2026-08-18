@@ -2,7 +2,7 @@
 
 
 def main() -> None:
-    print("pcdf-bo-triagem")
+    print("projeto-mba-mlops")
 
 
 if __name__ == "__main__":

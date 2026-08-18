@@ -1,6 +1,6 @@
-# pcdf-bo-triagem
+# projeto-mba-mlops
 
-Projeto do curso de MLOps para triagem automática de boletins de ocorrência da PCDF.
+Projeto do curso de MLOps para ingestão, treino e entrega de um classificador.
 
 ## Estrutura
 
@@ -11,7 +11,7 @@ pulumi/               Infraestrutura como código (Pulumi)
 airflow/dags/         Ingestão dos boletins
 kubeflow/             Pipeline de treino do classificador
 app/                  API, testes e Dockerfile
-k8s/pcdf-bo-api/      Manifests Kubernetes
+k8s/api/              Manifests Kubernetes
 .github/workflows/    CI/CD
 ```
 

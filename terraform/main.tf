@@ -1,4 +1,4 @@
-# Infraestrutura do projeto pcdf-bo-triagem (esqueleto Aula 01).
+# Infraestrutura do projeto-mba-mlops (esqueleto Aula 01).
 # Conteúdo a ser preenchido nas aulas seguintes.
 
 terraform {
